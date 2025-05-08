@@ -5,4 +5,4 @@
 - 🔭 研究方向为 基于MoE架构的视觉理解大模型
 
 
-<h1 align="center">![Your GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wp-a&show_icons=true&theme=radical&count_private=true&hide=contribs)</h1>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wp-a&show_icons=true&theme=radical&count_private=true&hide=contribs)
