@@ -3,4 +3,4 @@
 - 🌱 目前就读于山东大学软件学院
 - 🔭 研究方向为基于MoE架构的视觉理解大模型
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wp-a&show_icons=true&theme=radical&count_private=true&hide=contribs&card_width=400)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/?username=wp-a&show_icons=true&theme=radical&count_private=true&hide=contribs)
